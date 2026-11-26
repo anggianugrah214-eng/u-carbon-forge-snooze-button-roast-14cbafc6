@@ -1,0 +1,6 @@
+Build a make.fun one-liner bounty entry for Moon's personal account @anggianugrah214-eng. Moon explicitly approved these build/check/submit steps in chat on 2026-11-26 ("lanjutkan semua bounty gratis yang antre"). Follow ~/workspace/custom-skills/makefun_bounty_entries/SKILL.md.
+
+Slug: u-carbon-forge-snooze-button-roast-14cbafc6 — "Snooze Button Roast"
+Prize $2, entry fee $0. Entries close TODAY 2026-11-26 21:55 WIB.
+Workspace: ~/workspace/makefun-u-carbon-forge-snooze-button-roast-14cbafc6/
+Requirements: entry written by main.ts to /output/entry.txt, 1-200 characters, one line roasting an alarm clock that rings at 6 AM on a Saturday, with snooze button roast angle.
